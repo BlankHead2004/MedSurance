@@ -34,7 +34,7 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/PrakharJain1509/MedSurance.git](https://github.com/BlankHead2004/MedSurance.git)
+   git clone https://github.com/PrakharJain1509/MedSurance.git
    cd MedSurance
    ```
 2. Install dependencies:
